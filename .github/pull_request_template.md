@@ -4,7 +4,7 @@
 
 ## Por que
 
-<!-- Qual issue ele resolve? Escreva: Closes #número -->
+<!-- Qual issue? Escreva: Issue #número. Aqui não use "Closes": a issue é da turma toda e ficaria fechada para todo mundo. -->
 
 ## Como testar
 
