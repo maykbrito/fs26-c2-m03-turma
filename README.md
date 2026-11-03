@@ -18,4 +18,4 @@ Aqui ninguém quebra nada: cada pessoa mexe só nos próprios arquivos.
 5. Abra o pull request para este repositório, preenchendo o modelo de descrição.
 6. Recebeu review? Responda com um **commit novo na mesma branch**. O PR se atualiza sozinho: não abra outro.
 
-Os nomes dos arquivos usam o seu usuário do GitHub, em minúsculas: `alunos/seu-usuario.md`.
+Os nomes dos arquivos usam o seu usuário do GitHub, em minúsculas: `alunos/seu-usuario.md`. Os arquivos `exemplo.md` mostram o formato.
